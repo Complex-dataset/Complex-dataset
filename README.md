@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Это набор данных от датчиков вибрации
 <!--
 **Complex-dataset/Complex-dataset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
